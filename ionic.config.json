@@ -1,0 +1,8 @@
+{
+  "name": "TGBAS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "7934f3d6"
+}
